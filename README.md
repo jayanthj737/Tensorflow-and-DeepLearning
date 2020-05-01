@@ -17,4 +17,4 @@ Google Brain team within Google's Machine Intelligence Research organization to
 conduct machine learning and deep neural networks research. 
 
 ## Tensorflow Basic Algorithms
-1. [Hello world of Deep Learning with Neural Networks](https://github.com/jayanthj737/Tensorflow-and-DeepLearning/blob/master/Hello_World_Notebook.ipynb)
+1. [Hello world of Deep Learning with Neural Networks](https://github.com/jayanthj737/Tensorflow-and-DeepLearning/blob/master/Hello%20World%20-%20Notebook.ipynb)
