@@ -1,4 +1,5 @@
 # Tensorflow-and-DeepLearning
+This is a self created Repo to keep track of basics of Tensorflow. :))
 <div align="center">
   <img src="https://github.com/jayanthj737/Tensorflow-and-DeepLearning/blob/master/tf.png">
 </div>
