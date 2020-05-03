@@ -18,6 +18,7 @@ conduct machine learning and deep neural networks research.
 
 ## Tensorflow Basic Algorithms
 ### Data Based Models
+<hr>
 1. [Hello world of Deep Learning with Neural Networks](https://github.com/jayanthj737/Tensorflow-and-DeepLearning/blob/master/Hello%20World%20-%20Notebook.ipynb)
 
 <img src="https://github.com/jayanthj737/Tensorflow-and-DeepLearning/blob/master/hello_world.png" width=650px>
@@ -27,6 +28,7 @@ conduct machine learning and deep neural networks research.
 <img src="https://github.com/jayanthj737/Tensorflow-and-DeepLearning/blob/master/House_prices.png" width=650px>
 
 ### Computer Vision Based
+<hr>
 1. [Fashion-MNIST Dataset with Callbacks](https://github.com/jayanthj737/Tensorflow-and-DeepLearning/blob/master/Fashion_MNIST_Dataset.ipynb)
  
  <img src="https://github.com/jayanthj737/Tensorflow-and-DeepLearning/blob/master/Screenshot%202020-05-02%20at%205.28.51%20PM.png" width=650px>
@@ -36,4 +38,5 @@ conduct machine learning and deep neural networks research.
  <img src="https://github.com/jayanthj737/Tensorflow-and-DeepLearning/blob/master/Screenshot%202020-05-03%20at%208.16.06%20PM.png" width=650px>
 
 ### Into Convolutional Neural Network
+<hr>
 
