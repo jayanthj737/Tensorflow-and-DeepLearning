@@ -44,5 +44,5 @@ conduct machine learning and deep neural networks research.
 
  1. [MNIST using CNNs](https://github.com/jayanthj737/Tensorflow-and-DeepLearning/blob/master/Convolutions_in_MNIST.ipynb)
  
- <img src="https://github.com/jayanthj737/Tensorflow-and-DeepLearning/blob/master/Screenshot%202020-05-05%20at%202.54.53%20PM.png" width=650px>
+ <img src="https://github.com/jayanthj737/Tensorflow-and-DeepLearning/blob/master/Screenshot%202020-05-05%20at%202.54.53%20PM.png" width=750px>
 
