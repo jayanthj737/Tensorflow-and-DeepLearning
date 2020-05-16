@@ -16,7 +16,16 @@ TensorFlow was originally developed by researchers and engineers working on the
 Google Brain team within Google's Machine Intelligence Research organization to
 conduct machine learning and deep neural networks research. 
 
-## Tensorflow Basic Algorithms
+<hr> 
+
+# 1. Basic Tensorflow Algorithms
+# 2. Convolutional Neural Networks
+# 3. Natural Language Processing
+# 4. Sequence and Time Series Analysis
+
+<hr>
+
+## 1. Tensorflow Basic Algorithms
 ### Data Based Models
 <hr>
 
