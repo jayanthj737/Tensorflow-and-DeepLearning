@@ -55,3 +55,12 @@ conduct machine learning and deep neural networks research.
  
  <img src="https://github.com/jayanthj737/Tensorflow-and-DeepLearning/blob/master/Screenshot%202020-05-05%20at%202.54.53%20PM.png" width=750px>
 
+<hr>
+
+
+## 3.Natural Language Processing
+
+1. [NLP Basics](https://github.com/jayanthj737/Tensorflow-and-DeepLearning/blob/master/NLP_Basics.ipynb)
+
+ <img src="https://github.com/jayanthj737/Tensorflow-and-DeepLearning/blob/master/Screenshot%202020-05-20%20at%205.41.29%20PM.png" width=750px>
+
